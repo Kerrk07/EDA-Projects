@@ -25,3 +25,8 @@ This project explores drug persistence in patients undergoing long-term treatmen
 ### Description:  
 This EDA examines fairness in job applications, focusing on biases in hiring and placement decisions. The analysis evaluates factors such as gender, education, and work experience to assess potential inequalities in job opportunities and outcomes.  
 
+## [Ukraine Humanitarian Needs Insepction][Guidehouse Project]  
+[Guidehouse Project]: https://github.com/Kerrk07/EDA-Projects/tree/main/Guidehouse%20Project 
+
+### Description:  
+This EDA examines humanitarian needs in Ukraine, utilizing sentiment analysis, exploratory data analysis (EDA), and time series analysis. The project analyzes data on displaced populations, resource availability, and aid distribution to identify critical gaps in humanitarian assistance. Sentiment analysis helps assess public sentiment toward the ongoing situation, while time series analysis uncovers trends and patterns in the evolution of the crisis, providing data-driven insights to improve support efforts.  
